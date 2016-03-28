@@ -94,6 +94,7 @@ application/ecmascript				ecma
 # application/edi-consent
 # application/edi-x12
 # application/edifact
+application/efi					efi
 # application/emergencycalldata.comment+xml
 # application/emergencycalldata.deviceinfo+xml
 # application/emergencycalldata.providerinfo+xml
@@ -1123,6 +1124,8 @@ application/vnd.triscape.mxs			mxs
 application/vnd.trueapp				tra
 # application/vnd.truedoc
 # application/vnd.ubisoft.webplayer
+application/vnd.uefi.img			efi.img uefi.img
+application/vnd.uefi.iso			efi.iso uefi.iso
 application/vnd.ufdl				ufd ufdl
 application/vnd.uiq.theme			utz
 application/vnd.umajin				umj
